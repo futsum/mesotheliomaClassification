@@ -9,3 +9,25 @@ R programming will be used for this project. Since the project is trying to pred
 
 A clinical dataset from UC Irvine Machine Learning Repository will be used for this project. The dataset was prepared at Dicle University Faculty of Medicine in Turkey, and it was donated to UCI in 2016. It has 324 observations and 34 variables. 
 
+# Required Libraries# 
+To conduct the data analysis, the following R packages will be used:
+
+# Data Collection #
+
+# Exploratory Data Analysis #
+
+# Data Analysis #
+
+Preparing the data for model building
+
+# Summary #
+
+# Reference #
+
+Mazurek, J. M., Syamlal, G., Wood, J. M., Hendricks, S. A. & Weston, A. (2017, March 3). Malignant Mesothelioma Mortality — United States, 1999–2015. Centers for Disease Control and Prevention (CDC). Weekly / 66(8);214–218. Retrieved from https://www.cdc.gov/mmwr/volumes/66/wr/mm6608a3.htm
+
+Ostroff, R. M., Mehan, M. R., Stewart, A., Ayers, D., Brody, E. N., Williams, S. A., Levin, S., Black, B., Harbut, M., Carbone, M., Goparaju, C., & Pass, H. I. (2012). Early detection of malignant pleural mesothelioma in asbestos-exposed individuals with a noninvasive proteomics-based surveillance tool. PLOS ONE7(10): e46091. https://doi.org/10.1371/journal.pone.0046091
+
+UCI Machine Learning Repository (n.d). Mesothelioma disease dataset. Retrieved from https://archive.ics.uci.edu/ml/datasets/Mesothelioma%C3%A2%E2%82%AC%E2%84%A2s+disease+data+set+
+
+
