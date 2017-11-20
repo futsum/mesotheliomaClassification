@@ -16,7 +16,7 @@ A clinical dataset from UC Irvine Machine Learning Repository will be used for t
 
 <h3> Exploratory Data Analysis </h3>
 
-	The variable of interest is “class of diagnosis’; the goal is to accurately predict mesothelioma patients using patient’s clinical test results that could support the diagnosis capability of medical experts. There are no missing values in the dataset. 
+The variable of interest is “class of diagnosis’; the goal is to accurately predict mesothelioma patients using patient’s clinical test results that could support the diagnosis capability of medical experts. There are no missing values in the dataset. 
 
 ![dataset structure](https://user-images.githubusercontent.com/2644463/33036907-1f4a3bd4-cded-11e7-9263-802975735898.PNG)
 
