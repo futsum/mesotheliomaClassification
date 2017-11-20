@@ -1,6 +1,6 @@
  <h1 align = 'Center'>Prediction Model for Malignant Mesothelioma </h1>
  
-According to Centers for Disease Control and Prevention (CDC), a Malignant mesothelioma “is a neoplasm associated with occupational and environmental inhalation exposure to asbestos fibers and other elongate mineral particles (EMPs). The median survival of patients with malignant mesothelioma is about 1 year from the time they are diagnosed. Between 1999 to 2015, a total of 45,221 mesothelioma related deaths were recorded in the Unites States (Mazurek, Syamlal, Wood, Hendricks, & Weston, 2017).
+According to Centers for Disease Control and Prevention (CDC), a Malignant mesothelioma “is a neoplasm associated with occupational and environmental inhalation exposure to asbestos fibers and other elongate mineral particles (EMPs); it is a highly aggressive tumor of the serous membranes.  The median survival of patients with malignant mesothelioma is about 1 year from the time they are diagnosed. Between 1999 to 2015, a total of 45,221 mesothelioma related deaths were recorded in the Unites States (Mazurek, Syamlal, Wood, Hendricks, & Weston, 2017; Er, Tanrikulu, & Abakay, 2015).
 
 It takes 20 to 40 years to develop a malignant mesothelioma from the time of exposure (Mazurek et al., 2017). As a result, mesothelioma is rare, and it is difficult to diagnosis; most patients diagnosed with mesothelioma when it is in advanced stage where treatment is less effective. Hence, early detection using patients’ clinical data is important (Ostroff et al., 2012). 
 
@@ -16,7 +16,7 @@ A clinical dataset from UC Irvine Machine Learning Repository will be used for t
 
 <h3> Exploratory Data Analysis </h3>
 
-The variable of interest is “class of diagnosis’; the goal is to predict mesothelioma patients using patient’s clinical test results. There are no missing values in the dataset. 
+	The variable of interest is “class of diagnosis’; the goal is to accurately predict mesothelioma patients using patient’s clinical test results that could support the diagnosis capability of medical experts. There are no missing values in the dataset. 
 
 ![dataset structure](https://user-images.githubusercontent.com/2644463/33036907-1f4a3bd4-cded-11e7-9263-802975735898.PNG)
 
@@ -29,6 +29,8 @@ Preparing the data for model building
 <h3> Summary </h3>
 
 <h3> Reference </h3>
+
+Er, O., Tanrikulu, C., & Abakay, A. (2015). Use of artificial intelligence techniques for diagnosis of malignant pleural mesothelioma. Dicle Medical Journal, 42 (1): 5-11. doi: 10.5798/diclemedj.0921.2015.01.0521 
 
 Mazurek, J. M., Syamlal, G., Wood, J. M., Hendricks, S. A. & Weston, A. (2017, March 3). Malignant Mesothelioma Mortality — United States, 1999–2015. Centers for Disease Control and Prevention (CDC). Weekly / 66(8);214–218. Retrieved from https://www.cdc.gov/mmwr/volumes/66/wr/mm6608a3.htm
 
