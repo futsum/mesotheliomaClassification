@@ -18,6 +18,8 @@ A clinical dataset from UC Irvine Machine Learning Repository will be used for t
 
 The variable of interest is “class of diagnosis’; the goal is to predict mesothelioma patients using patient’s clinical test results. There are no missing values in the dataset. 
 
+!(https://user-images.githubusercontent.com/2644463/33036907-1f4a3bd4-cded-11e7-9263-802975735898.PNG)
+
 <h3> Data Analysis </h3>
 
 Preparing the data for model building
