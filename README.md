@@ -20,6 +20,8 @@ The variable of interest is “class of diagnosis’; the goal is to predict mes
 
 ![dataset structure](https://user-images.githubusercontent.com/2644463/33036907-1f4a3bd4-cded-11e7-9263-802975735898.PNG)
 
+![summary1](https://user-images.githubusercontent.com/2644463/33037619-5f3480fe-cdef-11e7-8a88-0a999868d153.PNG)
+
 <h3> Data Analysis </h3>
 
 Preparing the data for model building
