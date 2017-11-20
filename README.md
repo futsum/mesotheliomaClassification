@@ -26,6 +26,10 @@ The median age of the patients is 55. Out of 324 patients, only 96 are found to 
 
 Majority of the patients are male; 59% male vs 41% female.
 
+![gender](https://user-images.githubusercontent.com/2644463/33044412-1611c62c-ce06-11e7-943b-96b51812d261.PNG)
+
+![genderproportion]()
+
 <h3> Data Analysis </h3>
 
 Preparing the data for model building
