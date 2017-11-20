@@ -7,12 +7,12 @@ It takes 20 to 40 years to develop a malignant mesothelioma from the time of exp
 In this project, machine learning techniques will be used to predict patients with mesothelium. If patients with mesothelioma are identified early enough, medical experts can design proper treatment that can save the lives of their patients. 
 R programming will be used for this project. Since the project is trying to predict patients with malignant mesothelioma, a classification method will be used. A learner will be trained using a patients’ clinical dataset. The first part of the project will focus on exploratory data analysis; in the second part, machine learning model will be built to predict patients with malignant mesothelioma. Both visual and non-visual analytical methods will be used to demonstrate the project. 
 
-A clinical dataset from UC Irvine Machine Learning Repository will be used for this project. The dataset was prepared at Dicle University Faculty of Medicine in Turkey, and it was donated to UCI in 2016. It has 324 observations and 34 variables. 
-
 <h3> Required Libraries </h3>
 To conduct the data analysis, the following R packages will be used:
 
 <h3> Data Collection </h3>
+
+A clinical dataset from UC Irvine Machine Learning Repository will be used for this project. The dataset was prepared by Abdullah Cetin Tanrikulu from Dicle University Faculty of Medicine in Turkey, and it was donated to UCI in 2016. It has 324 observations and 35 variables. All the variables are numeric type. The dataset is available as excel spreadsheet; an R package “readxl “was used to upload it to R studio. 
 
 <h3> Exploratory Data Analysis </h3>
 
