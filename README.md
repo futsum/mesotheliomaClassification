@@ -20,7 +20,11 @@ The variable of interest is “class of diagnosis’; the goal is to accurately 
 
 ![dataset structure](https://user-images.githubusercontent.com/2644463/33036907-1f4a3bd4-cded-11e7-9263-802975735898.PNG)
 
+The median age of the patients is 55. Out of 324 patients, only 96 are found to test positive for malignant mesothelioma. 
+
 ![summary1](https://user-images.githubusercontent.com/2644463/33037619-5f3480fe-cdef-11e7-8a88-0a999868d153.PNG)
+
+Majority of the patients are male; 59% male vs 41% female.
 
 <h3> Data Analysis </h3>
 
