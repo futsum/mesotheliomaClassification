@@ -28,7 +28,7 @@ The median age of the patients is 55. The age distribution looks roughly normal.
 
 ![age histogram](https://user-images.githubusercontent.com/2644463/33052942-71d83356-ce2e-11e7-8587-56e5ea622271.PNG)
 
-The median age for female patients is 56 and for male 54. 
+The median age for female patients is 56 and median age for male patients is 54. 
 
 ![age boxplot](https://user-images.githubusercontent.com/2644463/33052953-7991208a-ce2e-11e7-90c9-700bd642de6b.PNG)
 
