@@ -30,7 +30,7 @@ Majority of the patients are male; 59% male vs 41% female.
 
 ![genderpropplot1](https://user-images.githubusercontent.com/2644463/33051695-86b48c44-ce28-11e7-9d2c-a30db4d575fd.PNG)
 
-![genderplot2]()
+![genderplot2](https://user-images.githubusercontent.com/2644463/33051741-aff713a6-ce28-11e7-8bb2-0ef8f3c5a7fa.PNG)
 
 <h3> Data Analysis </h3>
 
