@@ -26,9 +26,11 @@ The response variable is converted to categorical variable to describe the diagn
 
 Majority of the patients are male; 59% male vs 41% female.
 
-![gender](https://user-images.githubusercontent.com/2644463/33044412-1611c62c-ce06-11e7-943b-96b51812d261.PNG)
-
 ![genderproportion](https://user-images.githubusercontent.com/2644463/33044415-1c03e934-ce06-11e7-811a-f87eec382666.PNG)
+
+![genderpropplot1](https://user-images.githubusercontent.com/2644463/33051695-86b48c44-ce28-11e7-9d2c-a30db4d575fd.PNG)
+
+![genderplot2]()
 
 <h3> Data Analysis </h3>
 
