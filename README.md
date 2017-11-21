@@ -20,9 +20,17 @@ The variable of interest is “class of diagnosis’; the goal is to accurately 
 
 ![dataset structure](https://user-images.githubusercontent.com/2644463/33036907-1f4a3bd4-cded-11e7-9263-802975735898.PNG)
 
-The response variable is converted to categorical variable to describe the diagnosis of mesothelioma as positive or negative. The following table summarizes the dataset. The median age of the patients is 55. Out of 324 patients, only 96 are found to test positive for malignant mesothelioma. 
+The response variable is converted to categorical variable to describe the diagnosis of mesothelioma as positive or negative. The following table summarizes the dataset. Out of 324 patients, only 96 are found to test positive for malignant mesothelioma. 
 
 ![summary1](https://user-images.githubusercontent.com/2644463/33045213-5956e5b8-ce09-11e7-8bf8-29030ae0cf32.PNG)
+
+The median age of the patients is 55. The age distribution looks roughly normal. 
+
+![age histogram]()
+
+The median age for female patients is 56 and for male 54. 
+
+![age boxplot]()
 
 Majority of the patients are male; 59% male vs 41% female.
 
