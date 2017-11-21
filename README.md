@@ -26,7 +26,7 @@ The response variable is converted to categorical variable to describe the diagn
 
 The median age of the patients is 55. The age distribution looks roughly normal. 
 
-![age histogram]()
+![age histogram](https://user-images.githubusercontent.com/2644463/33052942-71d83356-ce2e-11e7-8587-56e5ea622271.PNG)
 
 The median age for female patients is 56 and for male 54. 
 
