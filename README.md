@@ -40,11 +40,17 @@ Majority of the patients are male; 59% male vs 41% female.
 
 Out of 134 female subjects, 51 patients (38%) diagnosed positive; and out of 190 male subjects 45 patients (24%) diagnosed positive. Looking at those patients diagnosed with mesothelioma, 53% are female and 47% are male; more female patients diagnosed positive to mesothelioma than male. 
 
+![proportion meso gender](https://user-images.githubusercontent.com/2644463/33623897-ccb287b8-d9af-11e7-86d4-1d7b85930c62.PNG)
+
 ![genderplot2](https://user-images.githubusercontent.com/2644463/33051838-21e0e384-ce29-11e7-81ef-8b096d4772b8.PNG)
 
 Majority of patients (86%) are exposed to asbestos. 
 
 ![asbestosexposure](https://user-images.githubusercontent.com/2644463/33623706-28a7315a-d9af-11e7-8164-1b29e8c30606.PNG)
+
+Out of 280 patients exposed to asbestos, only 87 (31%) are diagnosed with mesothelioma and out of 44 patients who are not exposed to asbestos, only 9 (20%) are diagnosed with mesothelioma. 
+
+![prop meso expose]()
 
 <h3> Data Analysis </h3>
 
