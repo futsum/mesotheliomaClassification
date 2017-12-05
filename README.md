@@ -58,11 +58,11 @@ Out of 280 patients exposed to asbestos, only 87 (31%) are diagnosed with mesoth
 
 The median duration of asbestos exposure is 34 days; the duration ranges from 25 days to 65 days.
 
-![exposure days]()
+![exposure days](https://user-images.githubusercontent.com/2644463/33625398-ac14b9c2-d9b4-11e7-93cc-7f9b8b01add3.PNG)
 
 The overall median duration of symptoms is 5 days; for those diagnosed negative, the duration is 4 days and for those positively diagnosed, the duration is 6 days. 
 
-![symptom days]()
+![symptom days](https://user-images.githubusercontent.com/2644463/33625426-c13b6d46-d9b4-11e7-973e-6824b27c3c22.PNG)
 
 <h3> Data Analysis </h3>
 
