@@ -46,11 +46,13 @@ Out of 134 female subjects, 51 patients (38%) diagnosed positive; and out of 190
 
 Majority of patients (86%) are exposed to asbestos. 
 
+![exposure meso yes](https://user-images.githubusercontent.com/2644463/33624367-708a464a-d9b1-11e7-8f20-9409f0c41a59.PNG)
+
 ![asbestosexposure](https://user-images.githubusercontent.com/2644463/33623706-28a7315a-d9af-11e7-8164-1b29e8c30606.PNG)
 
 Out of 280 patients exposed to asbestos, only 87 (31%) are diagnosed with mesothelioma and out of 44 patients who are not exposed to asbestos, only 9 (20%) are diagnosed with mesothelioma. 
 
-![prop meso expose]()
+![prop meso exposure]()
 
 <h3> Data Analysis </h3>
 
