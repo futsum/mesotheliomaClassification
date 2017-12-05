@@ -23,7 +23,6 @@ The variable of interest is “class of diagnosis’; the goal is to accurately 
 The response variable is converted to categorical variable to describe the diagnosis of mesothelioma as positive or negative. The following table summarizes the dataset. 
 
 ![summary1](https://user-images.githubusercontent.com/2644463/33045213-5956e5b8-ce09-11e7-8bf8-29030ae0cf32.PNG)
-
 Out of 324 patients, only 96 (30%) are diagnosed positive.
 
 ![proportion diagnosis](https://user-images.githubusercontent.com/2644463/33627056-927cf592-d9b9-11e7-87aa-05fad74de811.PNG)
