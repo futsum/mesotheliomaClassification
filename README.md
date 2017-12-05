@@ -68,7 +68,7 @@ Majority of the patients (56%) are non-smokers.
 
 ![prop smoking habits](https://user-images.githubusercontent.com/2644463/33626320-7b660922-d9b7-11e7-9444-05dfabf69df9.PNG)
 
-![smoking habits](https://user-images.githubusercontent.com/2644463/33626328-810b9b1c-d9b7-11e7-86e6-63cfbcae3e0e.PNG)
+![smoking habits](https://user-images.githubusercontent.com/2644463/33626655-77cf7afe-d9b8-11e7-84b2-feffa2b550ba.PNG)
 
 Out of 183 non-smokers, 57 (31%) are diagnosed positive, in contrast, out of 141 smokers, only 39 (28%) are diagnosed positive.
 
