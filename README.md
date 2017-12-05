@@ -20,9 +20,15 @@ The variable of interest is “class of diagnosis’; the goal is to accurately 
 
 ![dataset structure](https://user-images.githubusercontent.com/2644463/33036907-1f4a3bd4-cded-11e7-9263-802975735898.PNG)
 
-The response variable is converted to categorical variable to describe the diagnosis of mesothelioma as positive or negative. The following table summarizes the dataset. Out of 324 patients, only 96 are found to test positive for malignant mesothelioma. 
+The response variable is converted to categorical variable to describe the diagnosis of mesothelioma as positive or negative. The following table summarizes the dataset. 
 
 ![summary1](https://user-images.githubusercontent.com/2644463/33045213-5956e5b8-ce09-11e7-8bf8-29030ae0cf32.PNG)
+
+Out of 324 patients, only 96 (30%) are diagnosed positive.
+
+![proportion diagnosis](https://user-images.githubusercontent.com/2644463/33627056-927cf592-d9b9-11e7-87aa-05fad74de811.PNG)
+
+![meso diagnosis](https://user-images.githubusercontent.com/2644463/33627069-9c70d956-d9b9-11e7-9021-0fad173771eb.PNG)
 
 The median age of the patients is 55. The age distribution looks roughly normal. 
 
@@ -75,6 +81,8 @@ Out of 183 non-smokers, 57 (31%) are diagnosed positive, in contrast, out of 141
 ![prop smoking habits Meso](https://user-images.githubusercontent.com/2644463/33626398-b147157c-d9b7-11e7-9161-a332dad9ca77.PNG)
 
 ![smoking habits Meso](https://user-images.githubusercontent.com/2644463/33626416-bf89bd9c-d9b7-11e7-9766-9491380300a5.PNG)
+
+
 
 
 <h3> Data Analysis </h3>
