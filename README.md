@@ -64,6 +64,19 @@ The overall median duration of symptoms is 5 days; for those diagnosed negative,
 
 ![symptom days](https://user-images.githubusercontent.com/2644463/33625426-c13b6d46-d9b4-11e7-973e-6824b27c3c22.PNG)
 
+Majority of the patients (56%) are non-smokers. 
+
+![prop smoking habits]()
+
+![smoking habits]()
+
+Out of 183 non-smokers, 57 (31%) are diagnosed positive, in contrast, out of 141 smokers, only 39 (28%) are diagnosed positive.
+
+![prop smoking habits Meso]()
+
+![smoking habits Meso]()
+
+
 <h3> Data Analysis </h3>
 
 Preparing the data for model building
