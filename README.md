@@ -42,6 +42,10 @@ Out of 134 female subjects, 51 patients (38%) diagnosed positive; and out of 190
 
 ![genderplot2](https://user-images.githubusercontent.com/2644463/33051838-21e0e384-ce29-11e7-81ef-8b096d4772b8.PNG)
 
+Majority of patients (86%) are exposed to asbestos. 
+
+![asbestosexposure](https://user-images.githubusercontent.com/2644463/33623706-28a7315a-d9af-11e7-8164-1b29e8c30606.PNG)
+
 <h3> Data Analysis </h3>
 
 Preparing the data for model building
