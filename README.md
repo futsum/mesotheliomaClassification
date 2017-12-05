@@ -52,7 +52,9 @@ Majority of patients (86%) are exposed to asbestos.
 
 Out of 280 patients exposed to asbestos, only 87 (31%) are diagnosed with mesothelioma and out of 44 patients who are not exposed to asbestos, only 9 (20%) are diagnosed with mesothelioma. 
 
-![prop meso exposure]()
+![prop meso exposure](https://user-images.githubusercontent.com/2644463/33624508-dc668d88-d9b1-11e7-9bc2-84ac33e55d57.PNG)
+
+![association meso exposure](https://user-images.githubusercontent.com/2644463/33624466-bbc15568-d9b1-11e7-9a3e-d55e747ad793.PNG)
 
 <h3> Data Analysis </h3>
 
