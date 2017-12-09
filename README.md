@@ -185,7 +185,7 @@ The accuracy of a random forest model is 100% with sensitivity, specificity, and
 
 The first ANN model has a very poor performance with 69% accuracy rate and 0% sensitivity rate. Balancing the dataset didn’t improve the ANN model. However, a 10-fold cross-validation improved the ANN model tremendously with an accuracy rate of 100%. Also, feature selection has improved to ANN model to produce a 100% accuracy rate. Moreover, both deep learning and random forest classifiers generated a 100% accuracy rate.
 
-![model comparison(https://user-images.githubusercontent.com/2644463/33799330-8fc712e4-dce6-11e7-8c37-f29c077db2b1.PNG )
+![model comparison](https://user-images.githubusercontent.com/2644463/33799330-8fc712e4-dce6-11e7-8c37-f29c077db2b1.PNG )
 
 <h3>Model Selection</h3>
 
