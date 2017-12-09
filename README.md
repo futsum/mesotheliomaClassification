@@ -193,6 +193,8 @@ Either a deep learning classifier, or a random forest classifier, or an ANN mode
 
 <h3> Summary </h3>
 
+Early detection of Mesothelioma is very important. Machine learning models can help in accurately predicting the diagnosis of mesothelioma patients. In this project, a deep learning classifier, a random forest learner, and an artificial neural network model predicted the diagnosis of mesothelioma patients at 100% accuracy rate. At this rate of accuracy, these models can be used as expert decision support tools to aid medical professionals in diagnosing mesothelioma patients accurately. 
+
 <h3> Reference </h3>
 
 Er, O., Tanrikulu, C., & Abakay, A. (2015). Use of artificial intelligence techniques for diagnosis of malignant pleural mesothelioma. Dicle Medical Journal, 42 (1): 5-11. doi: 10.5798/diclemedj.0921.2015.01.0521 
