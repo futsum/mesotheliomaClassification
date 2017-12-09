@@ -87,7 +87,109 @@ Out of 183 non-smokers, 57 (31%) are diagnosed positive, in contrast, out of 141
 
 <h3> Data Analysis </h3>
 
-Preparing the data for model building
+<h4>Preparing the data for model building</h4>
+
+Some of the predictors have a wider range than the others; before proceeding to the next step, the variables need to be normalized.  After normalizing, all the predictors are within the range of 0 and 1.
+
+![normalized dataset]()
+
+<h3>Training and Test Sets</h3>
+
+The dataset is split into training (70%) and test (30%) sets; training set is used to train the learner and a test set is used to evaluate the performance of the learner. Both sets reflect the original dataset with a record of 30% of positive and 70% negative diagnosis.
+
+<h3>Model Building</h3>
+
+Different learners using Artificial Neural Networks (ANN), Deep Learning, and Random Forest algorithms will be trained to classify the diagnosis mesothelioma patients. The performance of the classifiers will be evaluated. The classifier with the best performance will be recommended as the final model for mesothelioma diagnosis classification for the given dataset.
+
+<h3>Artificial Neural Networks (ANN)<h3>
+
+The first learner is an ANN classifier; the nnet package is used to build the classifier. The ANN classifier was trained using the training set. 
+
+![ANN model]()
+
+<h3>Prediction</h3>
+
+The ANN learner was used to predict the outcome of the mesothelioma diagnosis using the test set. The outcome of the first six patients is: 
+
+![ANN Prediction]()
+
+<h3>Performance Evaluation</h3>
+
+The overall accuracy rate of the ANN classifier is 69%. The sensitivity rate (true positive or positive diagnosis agreement between the predicted and the observed values) is 0% and the specificity rate (true negative or negative diagnosis agreement between the predicted and the observed values) is 100%. A Kappa of 0 % indicates a poor agreement between the predicted and observed values. At 0% sensitivity rate, the model has misclassified all the positive diagnosed patients as negative. Since the interest of the project is to identify those patients with positive diagnosis, the ANN model is a very poor model.
+
+![ANN performance]()
+
+<h3>Balancing the dataset</h3>
+
+The misclassification of patients could be as a result of an imbalanced dataset; the majority of the diagnosis of the patients is negative. The model might not be getting enough information about the minority (positive) diagnosis; the model is biased towards the negative diagnosis. 
+
+To balance the dataset, ROSS package has been used.
+
+![balancing dataset]()
+
+Using the oversampling technique, ROSE replicated the positive diagnosis examples to balance the dataset. Now, the proportion of the dataset is 51% positive and 49% negative.
+
+![balance proportion]()
+
+The performance of an ANN model using the balanced dataset is the same as the original ANN model; balancing the dataset didn’t improve the performance. 
+
+![balance ANN perf]()
+
+<h3>ANN Model using cross-validation</h3>
+
+Can cross-validation improve the performance of the ANN model? Using a 10-fold cross-validation, an ANN model was developed. The model produced a 100% accuracy rate with sensitivity, accuracy, and Kappa rates of 100%. Cross-validation improved the accuracy of the ANN model.
+
+![crossvalidation ANN perf]()
+
+<h3>Feature Selection</h3>
+
+Can the performance of the ANN model be improved using feature selection? Feature selection method helps to identify subset of features that are required to build a model; not all features are equally important in model building. A recursive feature elimination function from the caret package has been used to eliminate those features not necessary required to develop a model. The function has selected only one feature – diagnosis method, as the only important feature. 
+
+![selected feature]()
+
+![plot selected feature]()
+
+<h3>ANN model using the selected feature</h3>
+
+An ANN model was developed using the selected feature. The accuracy rate of the ANN model using the selected feature generated an accuracy rate of 100% - no patient is misdiagnosed. The sensitivity rate, the specificity rate, and the Kappa are all 100%. Feature selection improved the accuracy of the ANN model. 
+
+![ANN selected feature perf]()
+
+<h3>Deep Learning Classifier</h3>
+
+Another classifier was developed using a deep learning algorithm using the H2O package. The model has two hidden layers with 25 nodes each and 100 epochs. 
+
+![deeplearning model]()
+
+<h3>Variable Importance</h3>
+
+The following list shows the importance of the features in building the deep learning classifier.
+
+![variable imp]()
+
+The deep learning models has an accuracy rate of 100% with sensitivity, specificity, AUC, and Kappa rate of 100%. 
+
+![deeplearning model perf]()
+
+<h3>Random Forest Model</h3>
+
+Finally, a random forest classifier was developed. 
+
+![randomforest model]()
+
+The accuracy of a random forest model is 100% with sensitivity, specificity, and Kappa rate of 100%. 
+
+![randomforest model perf]()
+
+<h3>Model Comparison</h3>
+
+The first ANN model has a very poor performance with 69% accuracy rate and 0% sensitivity rate. Balancing the dataset didn’t improve the ANN model. However, a 10-fold cross-validation improved the ANN model tremendously with an accuracy rate of 100%. Also, feature selection has improved to ANN model to produce a 100% accuracy rate. Moreover, both deep learning and random forest classifiers generated a 100% accuracy rate.
+
+![model comparison()
+
+<h3>Model Selection</h3>
+
+Either a deep learning classifier, or a random forest classifier, or an ANN model with 10-fold cross-validation can be used as a final model for diagnosis of mesothelioma patients. 
 
 <h3> Summary </h3>
 
