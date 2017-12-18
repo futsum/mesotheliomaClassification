@@ -10,7 +10,7 @@ R programming will be used for this project. Since the project is trying to pred
 
 <h3> Required Libraries </h3>
 
-![libraries]()
+![libraries](https://user-images.githubusercontent.com/2644463/34131178-c38752e2-e407-11e7-926b-3ebc3f48fbf6.PNG)
 To conduct the data analysis, the following R packages will be used:
 
 <h3> Data Collection </h3>
