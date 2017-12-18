@@ -9,6 +9,8 @@ In this project, machine learning techniques will be used to predict patients wi
 R programming will be used for this project. Since the project is trying to predict patients with malignant mesothelioma, a classification method will be used. A learner will be trained using a patients’ clinical dataset. The first part of the project will focus on exploratory data analysis; in the second part, machine learning model will be built to predict patients with malignant mesothelioma. Both visual and non-visual analytical methods will be used to demonstrate the project. 
 
 <h3> Required Libraries </h3>
+
+![libraries]()
 To conduct the data analysis, the following R packages will be used:
 
 <h3> Data Collection </h3>
