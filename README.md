@@ -4,7 +4,8 @@ According to Centers for Disease Control and Prevention (CDC), a Malignant mesot
 
 It takes 20 to 40 years to develop a malignant mesothelioma from the time of exposure (Mazurek et al., 2017). As a result, mesothelioma is rare, and it is difficult to diagnosis; most patients diagnosed with mesothelioma when it is in advanced stage where treatment is less effective. Hence, early detection using patients’ clinical data is important (Ostroff et al., 2012). 
 
-In this project, machine learning techniques will be used to predict patients with mesothelium. If patients with mesothelioma are identified early enough, medical experts can design proper treatment that can save the lives of their patients. 
+In this project, machine learning techniques will be used to predict patients with mesothelium. If patients with mesothelioma are identified early enough, medical experts can design proper treatment that can save the lives of their patients. As a student of Regis University, I’m hoping to reflect Regis values through this project. I’ll strive to excellency in each step of the way, and I hope this project provides an insight for creating a better expert decision support tool to help medical professions. 
+
 R programming will be used for this project. Since the project is trying to predict patients with malignant mesothelioma, a classification method will be used. A learner will be trained using a patients’ clinical dataset. The first part of the project will focus on exploratory data analysis; in the second part, machine learning model will be built to predict patients with malignant mesothelioma. Both visual and non-visual analytical methods will be used to demonstrate the project. 
 
 <h3> Required Libraries </h3>
