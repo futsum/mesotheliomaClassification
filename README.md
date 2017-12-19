@@ -104,7 +104,7 @@ The dataset is split into training (70%) and test (30%) sets; training set is us
 
 Different learners using Artificial Neural Networks (ANN), Deep Learning, and Random Forest algorithms will be trained to classify the diagnosis mesothelioma patients. The performance of the classifiers will be evaluated. The classifier with the best performance will be recommended as the final model for mesothelioma diagnosis classification for the given dataset.
 
-<h3>Artificial Neural Networks (ANN)<h3>
+<h3>Artificial Neural Networks (ANN)</h3>
 
 The first learner is an ANN classifier; the nnet package is used to build the classifier. The ANN classifier was trained using the training set. 
 
